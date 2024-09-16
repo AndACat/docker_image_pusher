@@ -1,1 +1,1 @@
-canal-server:latest
+canal/canal-server:latest
