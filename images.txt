@@ -1,3 +1,4 @@
 eclipse-temurin:8-jdk
 eclipse-temurin:21-jdk
 eclipse-temurin:11-jdk
+eclipse-temurin:17-jdk
