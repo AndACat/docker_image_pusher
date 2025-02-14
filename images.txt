@@ -1,2 +1,3 @@
-canal/canal-server:latest
+eclipse-temurin:8-jdk
 eclipse-temurin:21-jdk
+eclipse-temurin:11-jdk
