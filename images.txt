@@ -1,1 +1,2 @@
 canal/canal-server:latest
+eclipse-temurin:21-jdk
