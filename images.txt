@@ -1,1 +1,1 @@
-streamsets/datacollector:6.2.0-SNAPSHOT
+streamsets/datacollector:6.2.0-latest
