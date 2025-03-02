@@ -1,4 +1,4 @@
-streamsets/datacollector:6.2.0-latest
+streamsets/datacollector:6.1.1
 
 
 
