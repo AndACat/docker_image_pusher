@@ -1,1 +1,1 @@
-newfuture/ddns
+streamsets/datacollector:6.2.0-SNAPSHOT
