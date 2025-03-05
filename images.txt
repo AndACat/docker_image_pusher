@@ -1,2 +1,1 @@
-zookeeper:3.9.3
-elkozmon/zoonavigator:1.1.3
+clickhouse:24.8
