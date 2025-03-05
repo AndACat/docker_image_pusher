@@ -1,4 +1,2 @@
-streamsets/datacollector:3.21.0
-
-
-
+zookeeper:3.9.3
+elkozmon/zoonavigator:1.1.3
